@@ -1,0 +1,3 @@
+[submodule "c-lab"]
+	path = c-lab
+	url = https://github.com/Arbos/c-lab.git
